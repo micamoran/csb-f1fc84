@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://micamoran.github.io/csb-f1fc84/static/css/main.85825379.chunk.css",
+    "main.js": "https://micamoran.github.io/csb-f1fc84/static/js/main.08b68a84.chunk.js",
+    "main.js.map": "https://micamoran.github.io/csb-f1fc84/static/js/main.08b68a84.chunk.js.map",
+    "runtime-main.js": "https://micamoran.github.io/csb-f1fc84/static/js/runtime-main.78548b1b.js",
+    "runtime-main.js.map": "https://micamoran.github.io/csb-f1fc84/static/js/runtime-main.78548b1b.js.map",
+    "static/js/2.9bddb678.chunk.js": "https://micamoran.github.io/csb-f1fc84/static/js/2.9bddb678.chunk.js",
+    "static/js/2.9bddb678.chunk.js.map": "https://micamoran.github.io/csb-f1fc84/static/js/2.9bddb678.chunk.js.map",
+    "index.html": "https://micamoran.github.io/csb-f1fc84/index.html",
+    "static/css/main.85825379.chunk.css.map": "https://micamoran.github.io/csb-f1fc84/static/css/main.85825379.chunk.css.map",
+    "static/js/2.9bddb678.chunk.js.LICENSE.txt": "https://micamoran.github.io/csb-f1fc84/static/js/2.9bddb678.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78548b1b.js",
+    "static/js/2.9bddb678.chunk.js",
+    "static/css/main.85825379.chunk.css",
+    "static/js/main.08b68a84.chunk.js"
+  ]
+}
